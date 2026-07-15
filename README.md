@@ -1,4 +1,4 @@
 # TaigaBSD
-![logo](/media/l.png)
+![logo](/md/gr.png)
 
 Fork of Old-Gold BSD
